@@ -8,7 +8,7 @@ We use two different networks, modified U-Net [1], and VDSR [2], and compare the
 Data used for this work can be downloaded from the following Google drive link:
 https://drive.google.com/drive/folders/0Bx_60BaQ0CesMk43UkdReXlxRlU?usp=sharing
 
-* U-Net has been modified to produce single channel output of dimensions same as the dimensions of input image.
+* U-Net has been modified to produce single channel output of dimensions same as the dimensions of input image. Additionally, we also add Batch-Norm to each convolutional layers.
 
 ## Files
 -VDSR.py	: training and testing file for VDSR network performing image learning task using MSE loss function.

@@ -1,0 +1,2 @@
+model_checkpoint_path: "VDSR_adam4"
+all_model_checkpoint_paths: "VDSR_adam4"

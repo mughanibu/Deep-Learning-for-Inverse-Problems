@@ -1,0 +1,2 @@
+model_checkpoint_path: "VDSR_mae_res_adam4.cpkt"
+all_model_checkpoint_paths: "VDSR_mae_res_adam4.cpkt"

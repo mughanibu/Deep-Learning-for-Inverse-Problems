@@ -25,4 +25,5 @@ https://drive.google.com/drive/folders/0Bx_60BaQ0CesMk43UkdReXlxRlU?usp=sharing
 [1] O. Ronneberger, P. Fischer, and T. Brox. U-net: Convolutional networks for biomedical image segmentation. In International Conference on Medical Image Computing and Computer-Assisted Intervention, pages 234–241. Springer, 2015. 
 [2] Jiwon Kim, Jung Kwon Lee and Kyoung Mu Lee, "Accurate Image Super-Resolution Using Very Deep Convolutional Networks", Proc. of IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.
 [3] https://github.com/jakeret/tf_unet
+
 [4] https://github.com/Jongchan/tensorflow-vdsr

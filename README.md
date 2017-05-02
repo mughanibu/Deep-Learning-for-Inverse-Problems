@@ -11,14 +11,14 @@ https://drive.google.com/drive/folders/0Bx_60BaQ0CesMk43UkdReXlxRlU?usp=sharing
 * U-Net has been modified to produce single channel output of dimensions same as the dimensions of input image. Additionally, we also add Batch-Norm to each convolutional layers.
 
 ## Files
--VDSR.py	: training and testing file for VDSR network performing image learning task using MSE loss function.
--VDSR_mae.py	: training and testing file for VDSR network performing image learning task using MAE loss function.
--VDSR_mae_res.py	: training and testing file for VDSR network performing residual learning task using MAE loss function.
--VDSR_res.py	: training and testing file for VDSR network performing residual learning task using MSE loss function.
--unet.py	: training and testing file for U-Net performing image learning task using MSE loss function.
--unet_mae.py	: training and testing file for U-Net performing image learning task using MAE loss function.
--unet_res.py	: training and testing file for U-Net performing residual learning task using MSE loss function.
--unet_res_mae.py	: training and testing file for U-Net performing residual learning task using MAE loss function.
+- VDSR.py	: training and testing file for VDSR network performing image learning task using MSE loss function.
+- VDSR_mae.py	: training and testing file for VDSR network performing image learning task using MAE loss function.
+- VDSR_mae_res.py	: training and testing file for VDSR network performing residual learning task using MAE loss function.
+- VDSR_res.py	: training and testing file for VDSR network performing residual learning task using MSE loss function.
+- unet.py	: training and testing file for U-Net performing image learning task using MSE loss function.
+- unet_mae.py	: training and testing file for U-Net performing image learning task using MAE loss function.
+- unet_res.py	: training and testing file for U-Net performing residual learning task using MSE loss function.
+- unet_res_mae.py	: training and testing file for U-Net performing residual learning task using MAE loss function.
 
 * MAE stands for minimum absolute error, and MSE stands for minimum squared error.
 
